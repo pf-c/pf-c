@@ -1,3 +1,4 @@
+<img src="https://github.com/pf-c/pf-c/blob/main/download.jpg" align="center" style="width: 100%" />
 # 💫 About Me:
 🔭 I’m currently working on Animal Management System<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning Java<br>💬 Ask me about animation & programming<br>⚡ Fun fact : I hate & love C++ same time
 
